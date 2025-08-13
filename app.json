@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "53.0.0",
+    "name": "HelloExpo",
+    "slug": "hello-expo",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.test.helloexpo"
+    }
+  }
+}
